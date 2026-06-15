@@ -65,4 +65,4 @@ Escribe exactamente la misma contraseña que utilizas para iniciar sesión en tu
 📄 Guía Visual en PDF
 En la carpeta docs/ de este directorio tienes disponible el archivo interactivo en formato PDF listo para descargar o visualizar, optimizado con la estructura gráfica de EntiendeIT.
 
-👉 Descargar PDF de la Guía(./docs/Restablecer_GNOME_Keyring.pdf)
+👉 [Descargar PDF de la Guía](./docs/Restablecer_GNOME_Keyring.pdf)
